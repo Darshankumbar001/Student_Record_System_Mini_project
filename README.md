@@ -5,7 +5,6 @@ This is a simple Student Record Management System built using Python.
 ## Features
 - Add new student records
 - View all student records
-- Update existing records
 - Delete student records
 
 ## Tech Used
